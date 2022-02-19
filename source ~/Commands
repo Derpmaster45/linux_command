@@ -8,3 +8,4 @@ alias rm='rm -i'
 alias ln='ln -i'
 alias sn='sudo shutdown now'
 alias sr='sudo reboot now'
+neofetch
