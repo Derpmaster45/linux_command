@@ -12,4 +12,5 @@ alias ff='firefox'
 alias vsc='code'
 alias ntb='netbeans'
 alias backup='timeshift'
+alias bkupGUI="sudo timeshift-gtk"
 neofetch
