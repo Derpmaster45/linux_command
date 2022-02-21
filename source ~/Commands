@@ -10,4 +10,6 @@ alias sr='sudo reboot now'
 alias prog='monodevelop'
 alias ff='firefox'
 alias vsc='code'
+alias ntb='netbeans'
+alias backup='timeshift'
 neofetch
