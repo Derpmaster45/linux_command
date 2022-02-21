@@ -8,6 +8,6 @@ alias ln='ln -i'
 alias sn='sudo shutdown now'
 alias sr='sudo reboot now'
 alias prog='monodevelop'
-alias web='firefox'
+alias ff='firefox'
 alias vsc='code'
 neofetch
