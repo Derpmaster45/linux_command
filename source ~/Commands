@@ -1,11 +1,13 @@
 source ~/.basrc
-alias ls='exa -al --color=always --group-directories-first'
-alias vim='nvim'
-alias update='sudo apt update&& sudo apt upgrade'
+alias ls='ls -lah --color=auto'
+alias update='sudo apt update && sudo apt upgrade'
 alias cp='cp -i'
 alias mv='mv -i'
 alias rm='rm -i'
 alias ln='ln -i'
 alias sn='sudo shutdown now'
 alias sr='sudo reboot now'
+alias prog='monodevelop'
+alias web='firefox'
+alias vsc='code'
 neofetch
