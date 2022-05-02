@@ -13,4 +13,5 @@ alias vsc='code'
 alias ntb='netbeans'
 alias backup='timeshift'
 alias bkupGUI="sudo timeshift-gtk"
+alias sysUpgrade="sudo apt dist-upgrade"
 neofetch
