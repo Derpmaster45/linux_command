@@ -1,0 +1,2 @@
+#Add this to the bash rc
+alias update='sudo pacman -Syu'
