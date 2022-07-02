@@ -1,2 +1,6 @@
-#Add this to the bash rc
+# Add this to the bash rc
 alias update='sudo pacman -Syu'
+alias rn ='sudo reboot now'
+alias sn 'sudo shutdown now'
+alias code ='code'
+neofetch
