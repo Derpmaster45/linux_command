@@ -15,5 +15,6 @@ alias backup='timeshift'
 alias bkupGUI="sudo timeshift-gtk"
 alias sysUpgrade='sudo apt update && sudo apt upgrade && sudo apt dist-upgrade && sudo apt autoremove && sudo apt install update-manager-core && sudo do-release-upgrade'
 alias graphicalUpgrade='sudo do-release-upgrade -f DistUpgradeViewGtk3'
+alias mintUpgrade='sudo mintupgrade check'
 alias armv='sudo apt autoremove'
 neofetch
