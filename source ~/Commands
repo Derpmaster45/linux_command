@@ -17,4 +17,5 @@ alias sysUpgrade='sudo apt update && sudo apt upgrade && sudo apt dist-upgrade &
 alias graphicalUpgrade='sudo do-release-upgrade -f DistUpgradeViewGtk3'
 alias mintUpgrade='sudo mintupgrade check'
 alias armv='sudo apt autoremove'
+alias installUPT ='sudo apt install mintupgrade'
 neofetch
