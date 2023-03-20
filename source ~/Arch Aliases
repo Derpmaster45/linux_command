@@ -4,3 +4,5 @@ alias rn ='sudo reboot now'
 alias sn ='sudo shutdown now'
 alias code ='code'
 neofetch
+## if you are having audio issue run alsamixer and change headphone volume to desired value and run sudo alsactl store
+sudo alsactl restore
