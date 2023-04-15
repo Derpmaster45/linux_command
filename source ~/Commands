@@ -15,7 +15,11 @@ alias backup='timeshift'
 alias bkupGUI="sudo timeshift-gtk"
 alias sysUpgrade='sudo apt update && sudo apt upgrade && sudo apt dist-upgrade && sudo apt autoremove && sudo apt install update-manager-core && sudo do-release-upgrade'
 alias graphicalUpgrade='sudo do-release-upgrade -f DistUpgradeViewGtk3'
-alias mintUpgrade='sudo mintupgrade check'
 alias armv='sudo apt autoremove'
+# mint specific commands
 alias installUPT ='sudo apt install mintupgrade'
+alias mintUpgrade='sudo mintupgrade check'
+# end mint specific commands
 neofetch
+sudo alsactl restore 
+## run alsactl command to fix potential sound issue
